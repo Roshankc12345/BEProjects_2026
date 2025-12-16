@@ -21,3 +21,7 @@ It uses hand gestures, visual games, and interactive quizzes to make learning en
 
 ## Deployment
 Live URL: https://gestureplay-hpxl.onrender.com
+
+## Note on Datasets & Models
+Due to repository size limits, trained models and large datasets are not included.
+They can be regenerated using the provided training scripts or accessed during the live demo.
