@@ -1,5 +1,5 @@
 
-# Fin Assistant — AI Personal Finance Web App (MongoDB + React + Node + Optional ML)
+# Fin Assistant — AI Personal Finance Web App (MongoDB + React + Node +  ML)
 
 An end‑to‑end **intelligent personal finance assistant** that:
 - **Automates expense classification** (rules + optional ML microservice).
